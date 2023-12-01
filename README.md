@@ -21,4 +21,4 @@
 
 ![desktop view](./desktop.png)
 
-## [live site]("https://vishnusuderson.github.io/fullpage.github.io/")
+## [live site](https://vishnusuderson.github.io/fullpage.github.io/)
